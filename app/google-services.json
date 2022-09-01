@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "541950450210",
+    "project_id": "wasa-25185",
+    "storage_bucket": "wasa-25185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541950450210:android:40b0cca9236c219f88c87b",
+        "android_client_info": {
+          "package_name": "com.juniorenriquegonzalez.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541950450210-47s89vpn9pf1bkf7k7dlll0rbqovahp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juniorenriquegonzalez.whatsapp",
+            "certificate_hash": "37528f615fada4a3882773e7952b31735ecac459"
+          }
+        },
+        {
+          "client_id": "541950450210-ajbc8nip18c6k49tjobjqvtq8lv9clla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN7-cTuHfAtpgAV2XrLmqb_VzvsrUqr6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541950450210-ajbc8nip18c6k49tjobjqvtq8lv9clla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
